@@ -1,0 +1,3 @@
+﻿User-agent: *
+ Disallow: /private/
+ Sitemap: https://susanwhitt663.github.io/sitemap/sitemap4.xml
